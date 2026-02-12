@@ -10,18 +10,18 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Technical Highlights](#technical-highlights)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Training Results](#training-results)
-- [Configuration](#configuration)
-- [Methodology](#methodology)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Key Features](#-key-features)
+- [System Architecture](#-system-architecture)
+- [Technical Highlights](#-technical-highlights)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Training Results](#-training-results)
+- [Configuration](#-configuration)
+- [Methodology](#-methodology)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## 🎯 Overview
 
