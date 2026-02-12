@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<nodes>
+	<node id="1" x="250" y="250" type="traffic_light" tl="TL1"/>
+	<node id="2" x="250" y="500" type="traffic_light" tl="TL2"/>
+	<node id="3" x="500" y="500" type="traffic_light" tl="TL3"/>
+	<node id="4" x="500" y="250" type="traffic_light" tl="TL4"/>
+	<node id="5" x="250" y="750" type="traffic_light" tl="TL5"/>
+	<node id="c6" x="62.5" y="250" type="unregulated"/>
+	<node id="c7" x="62.5" y="500" type="unregulated"/>
+	<node id="c8" x="62.5" y="750" type="unregulated"/>
+	<node id="c9" x="250" y="62.5" type="unregulated"/>
+	<node id="c10" x="250" y="937.5" type="unregulated"/>
+	<node id="c11" x="500" y="62.5" type="unregulated"/>
+	<node id="c12" x="437.5" y="750" type="unregulated"/>
+	<node id="c14" x="500" y="687.5" type="unregulated"/>
+	<node id="c15" x="687.5" y="250" type="unregulated"/>
+	<node id="c16" x="687.5" y="500" type="unregulated"/>
+</nodes>

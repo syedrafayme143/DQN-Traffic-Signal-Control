@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<edges>
+	<edge id="e1" from="1" to="4" numLanes="4" speed="13.9"/>
+	<edge id="e2" from="4" to="1" numLanes="4" speed="13.9"/>
+	<edge id="e3" from="1" to="2" numLanes="4" speed="13.9"/>
+	<edge id="e4" from="2" to="1" numLanes="4" speed="13.9"/>
+	<edge id="e5" from="2" to="3" numLanes="4" speed="13.9"/>
+	<edge id="e6" from="3" to="2" numLanes="4" speed="13.9"/>
+	<edge id="e7" from="4" to="3" numLanes="4" speed="13.9"/>
+	<edge id="e8" from="3" to="4" numLanes="4" speed="13.9"/>
+	<edge id="ce9" from="c5" to="1" numLanes="4" speed="13.9"/>
+	<edge id="ce10" from="1" to="c5" numLanes="4" speed="13.9"/>
+	<edge id="ce11" from="c6" to="2" numLanes="4" speed="13.9"/>
+	<edge id="ce12" from="2" to="c6" numLanes="4" speed="13.9"/>
+	<edge id="ce13" from="c7" to="1" numLanes="4" speed="13.9"/>
+	<edge id="ce14" from="1" to="c7" numLanes="4" speed="13.9"/>
+	<edge id="ce15" from="2" to="c8" numLanes="4" speed="13.9"/>
+	<edge id="ce16" from="c8" to="2" numLanes="4" speed="13.9"/>
+	<edge id="ce17" from="c9" to="4" numLanes="4" speed="13.9"/>
+	<edge id="ce18" from="4" to="c9" numLanes="4" speed="13.9"/>
+	<edge id="ce19" from="4" to="c11" numLanes="4" speed="13.9"/>
+	<edge id="ce20" from="c11" to="4" numLanes="4" speed="13.9"/>
+	<edge id="ce21" from="3" to="c12" numLanes="4" speed="13.9"/>
+	<edge id="ce22" from="c12" to="3" numLanes="4" speed="13.9"/>
+	<edge id="ce23" from="3" to="c10" numLanes="4" speed="13.9"/>
+	<edge id="ce24" from="c10" to="3" numLanes="4" speed="13.9"/>
+</edges>

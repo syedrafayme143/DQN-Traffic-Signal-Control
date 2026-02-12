@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<connections>
+	<connection from="e1" to="ce6" fromLane="3" toLane="3"/>
+	<connection from="e1" to="ce11" fromLane="0" toLane="0"/>
+	<connection from="e1" to="ce13" fromLane="0" toLane="0"/>
+	<connection from="e1" to="ce13" fromLane="1" toLane="1"/>
+	<connection from="e1" to="ce13" fromLane="2" toLane="2"/>
+	<connection from="e2" to="ce4" fromLane="0" toLane="0"/>
+	<connection from="e2" to="ce8" fromLane="0" toLane="0"/>
+	<connection from="e2" to="ce8" fromLane="1" toLane="1"/>
+	<connection from="e2" to="ce8" fromLane="2" toLane="2"/>
+	<connection from="e2" to="ce9" fromLane="3" toLane="3"/>
+	<connection from="ce3" to="e1" fromLane="3" toLane="3"/>
+	<connection from="ce3" to="ce8" fromLane="0" toLane="0"/>
+	<connection from="ce3" to="ce9" fromLane="0" toLane="0"/>
+	<connection from="ce3" to="ce9" fromLane="1" toLane="1"/>
+	<connection from="ce3" to="ce9" fromLane="2" toLane="2"/>
+	<connection from="ce5" to="e2" fromLane="0" toLane="0"/>
+	<connection from="ce5" to="ce11" fromLane="0" toLane="0"/>
+	<connection from="ce5" to="ce11" fromLane="1" toLane="1"/>
+	<connection from="ce5" to="ce11" fromLane="2" toLane="2"/>
+	<connection from="ce5" to="ce13" fromLane="3" toLane="3"/>
+	<connection from="ce7" to="e1" fromLane="0" toLane="0"/>
+	<connection from="ce7" to="e1" fromLane="1" toLane="1"/>
+	<connection from="ce7" to="e1" fromLane="2" toLane="2"/>
+	<connection from="ce7" to="ce4" fromLane="3" toLane="3"/>
+	<connection from="ce7" to="ce9" fromLane="0" toLane="0"/>
+	<connection from="ce10" to="e1" fromLane="0" toLane="0"/>
+	<connection from="ce10" to="ce4" fromLane="0" toLane="0"/>
+	<connection from="ce10" to="ce4" fromLane="1" toLane="1"/>
+	<connection from="ce10" to="ce4" fromLane="2" toLane="2"/>
+	<connection from="ce10" to="ce8" fromLane="3" toLane="3"/>
+	<connection from="ce12" to="e2" fromLane="3" toLane="3"/>
+	<connection from="ce12" to="ce6" fromLane="0" toLane="0"/>
+	<connection from="ce12" to="ce6" fromLane="1" toLane="1"/>
+	<connection from="ce12" to="ce6" fromLane="2" toLane="2"/>
+	<connection from="ce12" to="ce13" fromLane="0" toLane="0"/>
+	<connection from="ce14" to="e2" fromLane="0" toLane="0"/>
+	<connection from="ce14" to="e2" fromLane="1" toLane="1"/>
+	<connection from="ce14" to="e2" fromLane="2" toLane="2"/>
+	<connection from="ce14" to="ce6" fromLane="0" toLane="0"/>
+	<connection from="ce14" to="ce11" fromLane="3" toLane="3"/>
+</connections>
