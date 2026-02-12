@@ -9,7 +9,7 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#-overview)
 - [Key Features](#key-features)
 - [System Architecture](#system-architecture)
 - [Technical Highlights](#technical-highlights)
